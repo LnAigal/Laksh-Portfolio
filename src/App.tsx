@@ -317,8 +317,8 @@ function App() {
           
           <div className="flex justify-center space-x-6">
             {[
-              { icon: Github, href: 'https://github.com/yourusername', label: 'GitHub' },
-              { icon: Linkedin, href: 'https://linkedin.com/in/yourusername', label: 'LinkedIn' },
+              { icon: Github, href: 'https://github.com/LnAigal', label: 'GitHub' },
+              { icon: Linkedin, href: 'https://linkedin.com/in/Lakshminarayana-Aigal', label: 'LinkedIn' },
               { icon: Mail, href: 'mailto:lakshwebsitedev@gmail.com', label: 'Email' }
             ].map((social) => {
               const Icon = social.icon;
