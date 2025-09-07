@@ -307,7 +307,7 @@ function App() {
           
           <div className="flex flex-col sm:flex-row gap-6 justify-center mb-12">
             <a 
-              href="mailto:your.email@example.com"
+              href="mailto:lakshwebsitedev@gmail.com"
               className="flex items-center gap-3 bg-gradient-to-r from-blue-500 to-purple-600 hover:from-blue-600 hover:to-purple-700 px-8 py-4 rounded-full font-semibold transition-all duration-300 transform hover:scale-105"
             >
               <Mail size={20} />
@@ -319,7 +319,7 @@ function App() {
             {[
               { icon: Github, href: 'https://github.com/yourusername', label: 'GitHub' },
               { icon: Linkedin, href: 'https://linkedin.com/in/yourusername', label: 'LinkedIn' },
-              { icon: Mail, href: 'mailto:your.email@example.com', label: 'Email' }
+              { icon: Mail, href: 'mailto:lakshwebsitedev@gmail.com', label: 'Email' }
             ].map((social) => {
               const Icon = social.icon;
               return (
