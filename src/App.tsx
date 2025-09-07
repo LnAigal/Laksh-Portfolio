@@ -109,7 +109,7 @@ function App() {
           <div className="mb-8 animate-fade-in">
             <div className="w-48 h-48 mx-auto mb-8 rounded-full bg-gradient-to-r from-blue-500 to-purple-600 p-1 shadow-2xl">
               <div className="w-full h-full rounded-full bg-gray-200 flex items-center justify-center text-gray-600 text-lg font-medium">
-                <img src="/public/my-photo.jpg" alt="Lakshminarayana Aigal's profile picture" className="w-full h-full rounded-full object-cover"/>
+                <img src="../public/my-photo.jpg" alt="Lakshminarayana Aigal's profile picture" className="w-full h-full rounded-full object-cover"/>
               </div>
             </div>
           </div>
